@@ -1,0 +1,20 @@
+{
+  "name": "framework-docs",
+  "version": "1.0.0",
+  "description": "the docs of lzlevin's framework",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzlevin/framework-docs.git"
+  },
+  "author": "levin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzlevin/framework-docs/issues"
+  },
+  "homepage": "https://github.com/lzlevin/framework-docs#readme"
+}

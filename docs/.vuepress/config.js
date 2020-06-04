@@ -1,4 +1,5 @@
 module.exports = ctx => ({
+    base: '/framework/',
     title: '中文文档',
     head: [['link', { rel: 'icon', href: 'image/favicon.ico' }]],
     description: 'document of framework',

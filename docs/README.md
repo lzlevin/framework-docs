@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /image/logo-simple.png
-heroText: framework
-tagline: 接口文档
+heroText: null
+tagline: null
 actionText: 快速上手 →
 actionLink: /guide/
 features:
@@ -12,5 +12,15 @@ features:
   details: 基于JDK1.8开发
 - title: 完善
   details: 具备多种功能
-footer: framework文档
+footer: levin's framework | out of the box
 ---
+
+> 快速开始
+```xml
+<dependency>
+  <groupId>com.vin</groupId>
+  <artifactId>spring-boot-starter-some-function</artifactId>
+  <version>${latest version}</version>
+</dependency>
+```
+

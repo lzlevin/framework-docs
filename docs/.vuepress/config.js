@@ -1,6 +1,6 @@
 module.exports = ctx => ({
-    title: 'framework docs',
-    head: [['link', { rel: 'icon', href: '/logo.ico' }]],
+    title: '中文文档',
+    head: [['link', { rel: 'icon', href: 'image/favicon.ico' }]],
     description: 'document of framework',
     theme: '@vuepress/theme-default',
     themeConfig: {

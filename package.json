@@ -1,7 +1,7 @@
 {
-  "name": "framework-docs",
+  "name": "VF",
   "version": "1.0.0",
-  "description": "the docs of lzlevin's framework",
+  "description": "the docs of levin's framework",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
